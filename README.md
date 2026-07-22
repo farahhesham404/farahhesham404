@@ -1,14 +1,12 @@
 <div align="center">
 
-# Hi there, I'm Farah Hesham 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Farah+Hesham+%F0%9F%91%8B;Software+Engineer;Full-Stack+Developer;Building+Real-World+Solutions;Open+to+Software+Engineering+Opportunities" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Aspiring+Full-Stack+Engineer;Building+Real-World+Solutions;Always+Learning+Something+New" />
+<br/>
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/farah-hesham-012b99320/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/farahhesham404)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farahheshamm404@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farah-hesham-012b99320/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farahhesham404)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farahheshamm404@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=farahhesham404&style=for-the-badge&color=blue)
 
@@ -16,29 +14,52 @@
 
 ---
 
-# 👩‍💻 About Me
+# 👋 Hi, I'm Farah Hesham
+
+### Software Engineer | Full-Stack Developer | Open to Work 🚀
+
+I'm a **Software Engineering graduate** passionate about building scalable web applications and solving real-world problems through technology.
+
+I enjoy working across the full software development lifecycle—from designing user-friendly interfaces to developing secure backend systems and databases. I'm always looking for opportunities to learn, grow, and contribute to impactful software projects.
+
+---
+
+# 👩🏻‍💻 About Me
 
 ```javascript
 const farah = {
-    education: "B.Sc. Software Engineering",
-    university: "Arab Academy for Science, Technology & Maritime Transport",
+  role: "Software Engineer",
 
-    location: "Alexandria, Egypt 🇪🇬",
+  degree: "B.Sc. in Software Engineering",
 
-    graduation: 2026,
+  university: "Arab Academy for Science, Technology & Maritime Transport",
 
-    interests: [
-        "Full-Stack Development",
-        "Backend Development",
-        "Software Architecture",
-        "Database Design",
-        "Problem Solving"
-    ],
+  location: "Alexandria, Egypt 🇪🇬",
 
-    currentlyWorkingOn: "UnFold",
+  status: "Open to Work",
 
-    funFact:
-        "I enjoy turning ideas into real-world applications."
+  interests: [
+    "Full-Stack Development",
+    "Backend Development",
+    "Software Architecture",
+    "Database Design",
+    "Problem Solving",
+    "UI/UX"
+  ],
+
+  currentlyWorkingOn: [
+    "Personal Projects",
+    "Open Source",
+    "Learning Modern Web Technologies"
+  ],
+
+  lookingFor: [
+    "Software Engineering Roles",
+    "Full-Stack Developer Roles",
+    "Backend Developer Roles"
+  ],
+
+  funFact: "I enjoy turning ideas into scalable software."
 }
 ```
 
@@ -46,130 +67,150 @@ const farah = {
 
 # 🚀 Tech Stack
 
-## Languages
+## 💻 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+## 🎨 Frontend
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?style=flat-square)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
+## ⚙️ Backend & Database
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
----
+## 🛠️ Tools
 
-## Frontend
-
-React
-
-Material UI
-
-JavaFX
-
----
-
-## Backend
-
-Node.js
-
-Express.js
-
-MongoDB
-
-Firebase
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-## Tools
+# ⭐ Featured Projects
 
-Git
+<table>
 
-GitHub
+<tr>
 
-VS Code
-
-Postman
-
-Figma
-
----
-
-# 🌟 Featured Projects
+<td width="50%">
 
 ## 🎓 UnFold (Graduation Project)
 
-> AI-powered micro-internship platform connecting students with companies through real-world tasks and mentorship.
+An AI-powered micro-internship platform that connects university students with companies through real-world tasks, mentorship, career roadmaps, and intelligent recommendations.
 
-✨ Features
+### Features
 
-- AI-powered recommendations
-- Career roadmap
-- Mentor system
-- ATS Resume Generator
-- Digital certificates
-- Student & Company dashboards
+- 🤖 AI-Powered Recommendations
+- 💼 Student & Company Dashboards
+- 📄 ATS Resume Generator
+- 🏆 Digital Certificates & Badges
+- 👨‍🏫 Mentor System
 
-**Tech**
+### Tech Stack
 
 React • TypeScript • Node.js • Express • MongoDB • Material UI
 
 🔒 Private Repository
 
----
+</td>
+
+<td width="50%">
 
 ## 🎉 Smart Event Management System
 
 https://github.com/farahhesham404/SmartEventSystem
 
-A full-stack event management platform where users can browse events, register, receive notifications, manage wishlists, and submit reviews.
+A full-stack event management platform where users can browse events, register for sessions, manage wishlists, receive notifications, and submit ratings and reviews.
 
-**Tech**
+### Features
 
-JavaScript
+- 📅 Event Registration
+- ❤️ Wishlist
+- 🔔 Notifications
+- ⭐ Reviews & Ratings
 
-Node.js
+### Tech Stack
 
-Express
+JavaScript • Node.js • Express • MongoDB
 
-MongoDB
+</td>
 
----
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ## ☕ Coffee Shop Management System
 
 https://github.com/farahhesham404/Coffee-Shop-Management-System
 
-A Java application for managing coffee shop operations using Object-Oriented Programming principles.
+A Java application for managing coffee shop operations, including menu management, customer orders, and sales management using Object-Oriented Programming principles.
 
-**Tech**
+### Tech Stack
 
-Java
+Java • OOP
 
-OOP
+</td>
 
----
+<td width="50%">
 
 ## 📅 Calendar App
 
 https://github.com/farahhesham404/Calendar-App
 
-A JavaFX desktop application for personal calendar management with secure authentication.
+A JavaFX desktop application that provides secure user authentication and personal calendar management for organizing schedules and daily events.
 
-**Tech**
+### Tech Stack
 
-Java
+Java • JavaFX
 
-JavaFX
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 📈 GitHub Statistics
+# 🌱 Currently Learning
+
+- ⚛️ Advanced React
+- 🟢 Node.js & Express
+- 🏗️ Software Architecture
+- ☁️ Cloud Computing
+- 🧠 System Design
+
+---
+
+# 🎯 Goals
+
+- 💼 Start my Software Engineering career
+- 🚀 Build impactful full-stack applications
+- 🌍 Contribute to Open Source
+- ☁️ Learn Cloud & DevOps
+- 📚 Continue improving my technical skills
+- 🤖 Build AI-powered applications
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=farahhesham404&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=farahhesham404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farahhesham404&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -179,9 +220,13 @@ JavaFX
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
+
+<div align="center">
 
 [![Farah's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farahhesham404&theme=tokyo-night&hide_border=true)](https://github.com/farahhesham404)
+
+</div>
 
 ---
 
@@ -189,19 +234,9 @@ JavaFX
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=farahhesham404&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma)
+[![trophy](https://github-profile-trophy.vercel.app/?username=farahhesham404&theme=tokyonight&row=1&column=6&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
----
-
-# 🎯 Current Goals
-
-- 🎓 Graduate in 2026
-- 🚀 Continue improving UnFold
-- 💼 Secure a Software Engineering Internship
-- 🌍 Contribute to Open Source
-- 📚 Learn System Design & Cloud Technologies
 
 ---
 
@@ -209,9 +244,11 @@ JavaFX
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/farah-hesham-012b99320/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farah-hesham-012b99320/)
 
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:farahheshamm404@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farahhesham404)
+
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farahheshamm404@gmail.com)
 
 </div>
 
@@ -219,8 +256,10 @@ JavaFX
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-*"The best way to predict the future is to build it."*
+*"Code isn't just about writing software—it's about solving problems, creating opportunities, and making ideas come to life."*
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
